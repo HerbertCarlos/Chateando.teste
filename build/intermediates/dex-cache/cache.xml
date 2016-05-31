@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="96f58016065f1b7e529448b45687aaf8c89927dc">
+        <dex dex="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b392eefd439274b9f4ff1bcbc3082c1703576b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/RDM/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_436ce8804b68bc81cbbfcac2fc9969250daf0c2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="62311ab96f68734df3b57f3b9a823c5ca309c893">
+        <dex dex="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_65a189b0a99ca220f16c7f995cc9f812c6a3367e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/libs/Parse-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1724acfaa5ad53f76aad702318391fed16cd98ca">
+        <dex dex="/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.4.0_a2588d937e23d739661ae57ade9e0641d2c5d080/classes.dex" />
+    </item>
+
+</items>

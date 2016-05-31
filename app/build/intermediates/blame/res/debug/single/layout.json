@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/chat_item_rcv.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/chat_item_rcv.xml"
+    },
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/user_list.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/user_list.xml"
+    },
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/chat_item_sent.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/chat_item_sent.xml"
+    },
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/chat.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/chat.xml"
+    },
+    {
+        "merged": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/build/intermediates/res/merged/debug/layout/chat_item.xml",
+        "source": "/Users/RDM/Documents/workspace/Android Studio/Chateando.teste/app/src/main/res/layout/chat_item.xml"
+    }
+]

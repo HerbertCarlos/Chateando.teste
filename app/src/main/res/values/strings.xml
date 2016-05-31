@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chateando</string>
+    <string name="type_msg">Type message</string>    
+    
+<string name="drawer_open">Open</string>
+<string name="drawer_close">Close</string>
+    
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="username">Usuario</string>
+    <string name="password">Senha</string>
+    <string name="register">Registro</string>
+    <string name="log_in">Entrar</string>
+    <string name="forgot_my_pwd">Eu esqueci minha senha!</string>
+    <string name="my_chats">Minhas conversas</string>
+    <string name="all_chats">Todas conversas</string>
+    <string name="search">Procurar</string>
+    <string name="to">Para:</string>
+    <string name="edit">Editar</string>
+    <string name="new_chat">Nova conversa</string>
+    <string name="alert_wait">Aguarde...</string>
+    <string name="err_fields_empty">Por favor, preencha os campos.</string>
+    <string name="err_singup">Ocorreu um erro durante o acesso:</string>
+    <string name="err_login">Ocorreu um erro durante o acesso:</string>
+    <string name="err_users">Usuario não encontrado:</string>
+<string name="alert_loading">Carregando..</string>
+<string name="msg_no_user_found">Não há usuários para chatear :(</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Senha">Senha</string>
+</resources>
